@@ -1,6 +1,6 @@
 # INI File Parser
 
-[English](README.md) | [简体中文](README_CN.MD)
+[English](README.md) | [简体中文](README_CN.md)
 
 A .NET, Mono and Unity3d compatible(*) library for reading/writing INI data from IO streams, file streams, and strings written in C#.
 

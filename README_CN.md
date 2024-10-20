@@ -1,6 +1,6 @@
 # INI File Parser
 
-[English](README.md) | [简体中文](README_CN.MD)
+[English](README.md) | [简体中文](README_CN.md)
 
 这是一个与 .NET、Mono 和 Unity3d 兼容(*)的库，用于从 IO 流、文件流以及用 C# 编写的字符串中读取/写入 INI 数据。
 
